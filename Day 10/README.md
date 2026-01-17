@@ -20,4 +20,4 @@ This Blackjack game is a console-based Python project where the user plays again
 - **Capstone Project**: the Project is a capstone project where all the things which I have learned so far has been used and implemented while building this project 
 The project was designed with five progressive stages: Normal, Hard, Extra Hard, and Expert. Each stage provided hints to help complete the project.
 
-**However, I successfully completed the project without using a single hint.**
+**However, I successfully completed the project only using hints 1 and 2.**
